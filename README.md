@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Noa
 
-<!--
-**Noa-gv/Noa-gv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a love for clean code, creative problem-solving, and continuous learning. My main focus is in **full-stack development**, and I enjoy working with modern web technologies and building real-world solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* JavaScript, TypeScript
+* React
+* Angular
+* Node.js, .NET
+* MongoDB, SQLServer, MySQL
+* Git & GitHub
+* REST APIs
+* JSON
+* Postman
+* and more...
+
+## 💼 Featured Projects
+
+* On The Sky
+* My GMC
+
+## 🎓 Education & Training
+
+* Fullstack Development Studies as part of a combined program by MAHAT (Israel’s Ministry of Labor) and Kamateck.
+
+## 📫 Contact Me
+
+* Email: [noagv1765@gmail.com](mailto:noagv1765@gmail.com)
+
